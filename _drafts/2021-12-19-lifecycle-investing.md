@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=kUMmGX1NEoA
+- 삼프로TV / 김학주 교수(한동대학교)
 
 기업의 탄생
 제품이 나오지 않아 실적이 없다 
