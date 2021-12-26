@@ -1,3 +1,11 @@
+---
+title: "위기를 기회로 만드는 투자법"
+categories:
+  - trading
+tags:
+  - trading
+---
+
 # 위기를 기회로 만드는 투자법
 출처 : [홍춘욱의 경제강의노트](https://www.youtube.com/watch?v=I8dyBEPTzRc)
 
