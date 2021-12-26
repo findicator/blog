@@ -6,8 +6,7 @@ tags:
   - trading
 ---
 
-# 위기를 기회로 만드는 투자법
-출처 : [홍춘욱의 경제강의노트](https://www.youtube.com/watch?v=I8dyBEPTzRc)
+> 출처 : [홍춘욱의 경제강의노트](https://www.youtube.com/watch?v=I8dyBEPTzRc)
 
 ## 1. 한국 주식시장은 수출에 의해 좌우된다. 
 - MSCI Korea와 한국 수출액 비교해보면 같이 가는 것을 알 수 있다.
